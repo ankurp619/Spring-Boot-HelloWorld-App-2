@@ -37,7 +37,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>SB-Welcome-App-2</finalName>
+		<finalName>SB-Welcome-App-3</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
